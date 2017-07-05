@@ -13,7 +13,7 @@ $ npm install
 $ npm start
 ```
 
-3.访问网址 [http://localhost:8080/](http://localhost:8080/)
+3. 访问网址 [http://localhost:8080/](http://localhost:8080/)
 
 ###打包手顺
 
